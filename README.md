@@ -18,8 +18,8 @@ Here is my CV in .pdf format:
 ## Projects
 * * *
 - [DataCollector](https://github.com/kateLab/TaskRPA) - This project is a console application for collecting data from Onliner catalog, writing data to Excel file and sending the received file to the specified email address.
-- [KatlaSport](https://github.com/kateLab/Katla-sport) and [KatlaSport front-end](https://github.com/kateLab/Katla-sport-front-end) - training project .NET Lab. KatlaSport is an internet shopping portal that trades sport goods.
-- [.NET Training tasks](https://github.com/kateLab/.NET-Training-2019) - the solution of tasks in the EPAM .NET training.
+- [KatlaSport](https://github.com/kateLab/Katla-sport) and [KatlaSport front-end](https://github.com/kateLab/Katla-sport-front-end) - Training project .NET Lab. KatlaSport is an internet shopping portal that trades sport goods.
+- [.NET Training tasks](https://github.com/kateLab/.NET-Training-2019) - The solution of tasks in the EPAM .NET training.
 - [Northwind Data Services](https://github.com/kateLab/.NET-Training-2019-Northwind-Data-Services) - Projects are Northwind OData Service and Northwind Web App. Training projects for working with Nortwind Database. 
 - [HTML and CSS tasks](https://github.com/kateLab/HTML-CSS-tasks) - Simple HTML and CSS tasks for .NET Lab.
 
